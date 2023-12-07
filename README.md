@@ -5,3 +5,16 @@ section 2.3, which covers language semantics, scalar types, and control flow.
 
 *Note:* Indented block quotes are from McKinney unless otherwise indicated. The section numbers here differ from McKinney because we will only discuss some 
 topics.
+
+
+We will focus on the following:
+
+1. Data structures
+    1. tuples
+    1. lists
+    1. dicts (also known as dictionaries)
+    1. *we will ignore sets*
+1. List comprehensions
+1. Functions
+    1. Returning multiple values
+    1. Using anonymous functions
